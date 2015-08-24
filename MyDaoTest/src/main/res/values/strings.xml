@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyDaoTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="insert_weather_info">新增一条天气信息</string>
+    <string name="delete_weather_info">点击天气信息列表中的一条来删除！</string>
+</resources>
